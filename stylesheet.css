@@ -1,0 +1,10 @@
+box1 {
+    height: 500px;
+    width: 500px;
+    background-color: lightblue;
+}
+
+#title {
+    font: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
